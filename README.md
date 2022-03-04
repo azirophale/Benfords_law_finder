@@ -1,4 +1,5 @@
 # Benfords_law_finder
+This is Simplest Programme i have created to find out  Benford’s law patterns
 This programme will show you **Benford’s Law** graph and its value so you can detect a fraud or uncommon human behaviour
 
 ### What is **Benford’s Law** ?
