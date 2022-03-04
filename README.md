@@ -1,6 +1,7 @@
 # Benfords_law_finder
 This is Simplest Programme i have created to find out  Benford’s law patterns
-This programme will show you **Benford’s Law** graph and its value so you can detect a fraud or uncommon human behaviour
+
+* This programme will show you **Benford’s Law** graph and its value so you can detect a fraud or uncommon human behaviour
 
 ### What is **Benford’s Law** ?
 We discuss a little-known gem for data analytics — Benford’s law, which tells us about expected distribution of significant digits in a diverse set of naturally occurring datasets and how this can be used for anomaly or fraud detection in scientific or technical publications.
